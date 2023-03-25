@@ -2,6 +2,8 @@
 
 This is the GitHub organisation of the `biocypher` project, a framework to build biomedical knowledge graphs. We are an inclusive and multi-cultural team interested in making knowledge graph creation more effective and accessible. Find us at https://biocypher.org, including docs and tutorials.
 
+One of our aims is to facilitate implementation of the [FAIR](https://www.nature.com/articles/sdata201618) and [TRUST](https://www.nature.com/articles/s41597-020-0486-7) principles in the workflows related to the building of knowledge graphs. We aim to do so by providing a modular architecture, allowing extensions in the areas of input (representing knowledge resources), ontology (for harmonisation and machine readability), and output (to allow adoption of the most effective format for each task).
+
 # 🔌 Adapters 
 
 You can find an overview of our adapters and pipelines on the [Components Project Board](https://github.com/orgs/biocypher/projects/3/views/2). If you create something yourself, please get in touch, so we can keep this board updated for everyone!
