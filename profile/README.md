@@ -6,7 +6,7 @@ One of our aims is to facilitate implementation of the [FAIR](https://www.nature
 
 # 🔌 Adapters 
 
-You can find an overview of our adapters and pipelines on the [Components Project Board](https://github.com/orgs/biocypher/projects/3/views/2). If you create something yourself, please get in touch, so we can keep this board updated for everyone!
+You can find an overview of our adapters and pipelines on the [Components Project Board](https://github.com/orgs/biocypher/projects/3/views/2). For more convenient browsing, you can also check out the [meta-graph](https://meta.biocypher.org), a Neo4j instance that is built by a BioCypher pipeline from the issues making up the Project Board ([here](https://github.com/biocypher/meta-graph)). If you create something yourself, or are planning to, please get in touch, so we can keep this board updated for everyone! 
 
 # 🌈 Contribution Guidelines
 
