@@ -19,7 +19,9 @@ If you want to ask informal questions, talk about dev things, or just chat, plea
 > This disclaimer was adapted from the [Pooch](https://github.com/fatiando/pooch) project.
 
 ## ✍️ Citation
-The BioCypher paper is available as a preprint at https://arxiv.org/abs/2212.13543.
+The BioCypher paper has been peer-reviewed in 
+[Nature Biotechnology](https://www.nature.com/articles/s41587-023-01848-y). 
+Before, it was available as a preprint at https://arxiv.org/abs/2212.13543.
 
 <!--
 
