@@ -36,7 +36,10 @@ Project Board](https://github.com/orgs/biocypher/projects/3/views/2). For more
 convenient browsing, you can also check out the
 [meta-graph](https://github.com/biocypher/meta-graph)). If you create something
 yourself, or are planning to, please get in touch, so we can keep this board
-updated for everyone! 
+updated for everyone! If you have an adapter ready, you can use our
+[issue form](https://github.com/biocypher/biocypher/issues/new?assignees=&labels=&projects=biocypher%2F3&template=ADD-COMPONENT.yml&title=%5BComponent+Name%5D)
+to make sure that all relevant information is recorded.
+
 
 # 🌈 Contribution Guidelines
 
