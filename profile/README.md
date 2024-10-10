@@ -60,6 +60,14 @@ please join our community at https://biocypher.zulipchat.com!
   - Preprint on [arXiv](https://arxiv.org/abs/2305.06488)
   - Read online [here](https://biocypher.github.io/biochatter-paper/)
 
+## 🤝 Sponsors
+
+We are fortunate to be funded by several organisations with focus on open science and software sustainability.
+
+- DECIDER, a Horizon 2020 EU Project with the aim of improving ovarian cancer care, https://www.deciderproject.eu
+- DFG528753569, in the context of a call on research software sustainability, https://dfg.de/
+- OTAR3088, a project with the aim of modernising automated knowledge management in the Open Targets Platform, https://www.opentargets.org
+
 <!--
 
 **Here are some ideas to get you started:**
