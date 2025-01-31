@@ -61,7 +61,7 @@ please join our community at https://biocypher.zulipchat.com!
   - Read online [here](https://biocypher.github.io/biocypher-paper/)
 - BioChatter
   - Preprint on [arXiv](https://arxiv.org/abs/2305.06488)
-  - Read online [here](https://biocypher.github.io/biochatter-paper/)
+  - Peer-reviewed in [Nature Biotechnology](https://www.nature.com/articles/s41587-024-02534-3)
 
 ## 🤝 Sponsors
 
